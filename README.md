@@ -30,7 +30,7 @@ Built as **Project 1** of the DecodeLabs AI Industrial Training Kit (Batch 2026)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 **Requirements:** Python 3.x — no external libraries needed.
 
@@ -58,7 +58,7 @@ Bot: Goodbye! Session terminated. Keep building. 🚀
 ##  Project Structure
 
 ```
-📦 rule-based-chatbot
+ rule-based-chatbot
  ┗  chatbot.py      # Main chatbot script
  ┗  README.md       # Project documentation
 ```
